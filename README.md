@@ -10,5 +10,5 @@ be proud of this repository.
 
 ## References
 My learning references are the following:
-- ()[https://dafriedman97.github.io/mlbook/content/introduction.html]
-- ()[https://github.com/jonkrohn/ML-foundations/tree/master]
+- https://dafriedman97.github.io/mlbook/content/introduction.html
+- https://github.com/jonkrohn/ML-foundations/tree/master
